@@ -13,5 +13,5 @@
 
 # Google Technologies Used
 
-  Google TesseractOCR Engine
+  Google TesseractOCR Engine, 
   Google Pay
