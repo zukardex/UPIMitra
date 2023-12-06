@@ -6,10 +6,10 @@
 
 # Team Participants
 
-  Sreyas Kishor T
-  Mohammed Suhail K M
-  Elston Savio Joseph
-  Akarsh J Kalathil
+  1)Sreyas Kishor T
+  2)Mohammed Suhail K M
+  3)Elston Savio Joseph
+  4)Akarsh J Kalathil
 
 # Google Technologies Used
 
